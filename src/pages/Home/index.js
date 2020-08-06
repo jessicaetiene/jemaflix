@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Soraia descobre o novo e luxuoso universo sugar. Ela entra em um relacionamento com um parceiro mais velho baseado em interesses. Um dar e receber delicioso sem cobranças e com muito prazer."}
+        videoDescription={"Uma ilha para chamar de sua. Uma ilha para cada dia do ano. Uma ilha para ser a mais perfeita representação do paradisíaco. O cenário parece surreal, é verdade. Mas, acredite, ele existe e está ao seu alcance. A composição de cena não para por aí. Há também um deslumbrante mar"}
       />
 
       <Carousel
