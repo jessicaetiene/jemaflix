@@ -1,0 +1,16 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "nome": "Europa",
+            "descricao": "Roteiro de viagens para a Europa",
+            "cor": "#cbd1fdf"
+        },
+        {
+            "id": 2,
+            "nome": "Ásia",
+            "descricao": "Roteiro de viagens para a Ásia",
+            "cor": "#cbd1fdf"
+        }
+    ]
+}
